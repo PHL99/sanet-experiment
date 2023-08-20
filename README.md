@@ -2,7 +2,7 @@
 PyTorch implementation practice of SANet from "Arbitrary Style Transfer with Style-Attentional Networks" by Park and Lee (2019).
 
 
-With great appreciation to Kaggle user SHAORRRA for providing a compacted COCO/WikiArt dataset, and GitHub user GlebSBrykin for sharing a pre-trained decoder download.
+With great appreciation to Kaggle user SHAORRRA for providing a compacted COCO/WikiArt dataset, and GitHub user GlebSBrykin for sharing a downloadable pre-trained decoder.
 
 
 Official paper: https://arxiv.org/abs/1812.02342
